@@ -1,18 +1,15 @@
-# Dictionary & Quiz Application
+# Dictionary
 
 ## Giới thiệu
-Đây là ứng dụng cá nhân hỗ trợ:
-1. **Dictionary** - Lưu và tra cứu từ vựng cá nhân.
-2. **Trắc nghiệm** - Tạo và làm bài trắc nghiệm cá nhân.
+Đây là ứng dụng cá nhân hỗ trợ: Lưu và tra cứu từ vựng cá nhân có dịch từ tiếng anh sang việt và ngược lại.
 
 ---
-
-## 1. Dictionary - Lưu & Tra cứu từ vựng
 
 ### Cách sử dụng:
 - Nhập từ mới vào tệp **dictionary.txt** theo định dạng:
   run | chạy | V
 ### Cách chạy ứng dụng:
 - Chạy tệp **quiz.exe** để bắt đầu sử dụng thư viện.
+![image](https://github.com/user-attachments/assets/868ff69f-7337-4b0d-b521-393b2ac72211)
 
 ---  
