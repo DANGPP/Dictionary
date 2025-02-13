@@ -6,8 +6,8 @@
 ---
 
 ### Cách sử dụng:
-- Nhập từ mới vào tệp **dictionary.txt** theo định dạng:
-  run | chạy | V
+- Nhập từ mới vào tệp **dictionary.txt**(ví dụ:
+  run | chạy | V )
 ### Cách chạy ứng dụng:
 - Chạy tệp **quiz.exe** để bắt đầu sử dụng thư viện.
 ![image](https://github.com/user-attachments/assets/868ff69f-7337-4b0d-b521-393b2ac72211)
